@@ -3,7 +3,7 @@
 <img align= "right" src="https://assets.wprock.fr/emoji/joypixels/512/1f469-1f4bb.png" width="390" height="390"/>
 
 
-- 🔭 I am an undergraduate student of Computer Science Engineering with AI
+- 🔭 I am currently an undergraduate student of Computer Science Engineering with AI
 - ✨ I am  interested in AI, ML and Mobile app development 
 - 😄 Pronouns: she/her
 - 📫 Reach me: aarryyaa292@gmail.com , [astrophile13](https://t.me/astrophile13)
