@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align= "right" src="https://assets.wprock.fr/emoji/joypixels/512/1f469-1f4bb.png" width="390" height="390"/>
+<img align= "right" src="https://assets.wprock.fr/emoji/joypixels/512/1f469-1f4bb.png" width="300" height="300"/>
 
 
 - 🔭 I am currently an undergraduate student of Computer Science Engineering with AI
