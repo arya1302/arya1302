@@ -4,7 +4,7 @@
 
 
 - 🔭 I am currently an undergraduate student of Computer Science Engineering with AI
-- ✨ I am  interested in AI, ML and Mobile app development 
+- ✨ I am  interested in AI, ML and Web development 
 - 😄 Pronouns: she/her
 - 📫 Reach me: aarryyaa292@gmail.com , [astrophile13](https://t.me/astrophile13)
 
