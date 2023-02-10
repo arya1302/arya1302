@@ -10,7 +10,7 @@
 
 
 
-<p align="left"><a><img alt="Arya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Arya292&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="160px"/></a><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya292&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="160px"/></a></p>
+<p align="left"><a><img alt="Arya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=arya1302&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="160px"/></a><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya1302&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="160px"/></a></p>
 
 
 
